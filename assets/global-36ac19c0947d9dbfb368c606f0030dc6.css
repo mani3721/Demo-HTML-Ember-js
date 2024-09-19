@@ -1,0 +1,23 @@
+:root {
+    --br-radius-sm: 2px;
+    --br-radius-md: 5px;
+    --br-radius-lg: 2px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* 
+body {
+    font-size: 13px;
+    color: var(--c-gray);
+    font-family: system-ui;
+    background-color: var(--c-body-bg);
+} */
+
+
+ul li { list-style: none; }
+a { text-decoration: none; cursor: pointer; }
+

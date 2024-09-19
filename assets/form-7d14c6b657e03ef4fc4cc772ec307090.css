@@ -1,0 +1,9 @@
+.form-control {
+    outline: none;
+    background: none;
+    display: block;
+    color: var(--c-granite-gray);
+    transition: var(--fast-trans);
+    border-radius: var(--br-radius-sm);
+    border: 1px solid var(--c-gray-100);
+}

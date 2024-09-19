@@ -1,0 +1,21 @@
+.btn {
+    border: none;
+    outline: none;
+    user-select: none;
+    display: inline-block;
+    text-align: center;
+    background: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: var(--br-radius-sm);
+}
+
+.btn.btn-primary {
+    padding: 10px 20px;
+    color: var(--c-white);
+    background: var(--c-highlight);
+}
+
+.btn-secondary {
+    padding: 10px 20px;
+}

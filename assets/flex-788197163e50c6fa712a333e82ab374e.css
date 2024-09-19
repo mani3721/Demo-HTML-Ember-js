@@ -1,0 +1,73 @@
+
+
+.zf-D-flx { display: flex; }
+.zf-D-Inflx { display: inline-flex; }
+.zf-FD-R { flex-direction: row }
+.zf-FD-C { flex-direction: column }
+.zf-Fd-RR { flex-direction: row-reverse }
+.zf-FD-CR { flex-direction: column-reverse }
+.zf-FW-NW { flex-wrap: nowrap; }
+.zf-FW-W { flex-wrap: wrap; }
+.zf-FW-WR { flex-wrap: wrap-reverse; }
+.zf-FF-CW { flex-flow: column wrap; }
+.zf-JC-FS { justify-content: flex-start; }
+.zf-JC-FE { justify-content: flex-end; }
+.zf-JC-SB { justify-content: space-between; }
+.zf-JC-SA { justify-content: space-around; }
+.zf-JC-SE { justify-content: space-evenly; }
+.zf-JC-C { justify-content: center; }
+.zf-AI-FS { align-items: flex-start; }
+.zf-AI-FE { align-items: flex-end; }
+.zf-AI-C { align-items: center; }
+.zf-AI-S { align-items: stretch; }
+.zf-AI-B { align-items: baseline; }
+.zf-AC-FS { align-content: flex-start; }
+.zf-AC-FE { align-content: flex-end; }
+.zf-AC-S { align-content: stretch; }
+.zf-AC-C { align-content: center; }
+.zf-AC-SB { align-content: space-between; }
+.zf-AC-SA { align-content: space-around; }
+
+.zf-G-2 { gap: 2px; }
+.zf-G-5 { gap: 5px; }
+.zf-G-8 { gap: 8px; }
+.zf-G-10 { gap: 10px; }
+.zf-G-15 { gap: 15px; }
+.zf-G-20 { gap: 20px; }
+.zf-G-25 { gap: 25px; }
+.zf-G-30 { gap: 30px; }
+.zf-G-40 { gap: 40px; }
+.zf-G-50 { gap: 50px; }
+
+.zf-RG-5 { grid-row-gap: 5px; }
+.zf-CG-5 { grid-column-gap: 5px; }
+
+.zf-FG-1 { flex-grow: 1; }
+.zf-FG-0 { flex-grow: 0; }
+.zf-FG-2 { flex-grow: 2; }
+.zf-FG-3 { flex-grow: 3; }
+
+.zf-FS-0 { flex-shrink: 0; }
+.zf-FS-2 { flex-shrink: 2; }
+.zf-FS-3 { flex-shrink: 3; }
+.zf-FS-4 { flex-shrink: 4; }
+
+.zf-F-1 { flex: 1; }
+.zf-F-N { flex: none; }
+
+.zf-AS-A { align-self: auto; }
+.zf-AS-B { align-self: baseline; }
+.zf-AS-C { align-self: center; }
+.zf-AS-FS { align-self: flex-start; }
+.zf-AS-FE { align-self: flex-end; }
+.zf-AS-S { align-self: stretch; }
+
+.zf-JS-A { justify-self: auto; }
+.zf-JS-B { justify-self: baseline; }
+.zf-JS-C { justify-self: center; }
+.zf-JS-FS { justify-self: flex-start; }
+.zf-JS-FE { justify-self: flex-end; }
+.zf-JS-S { justify-self: stretch; }
+
+
+
